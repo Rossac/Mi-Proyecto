@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA978CE6-2BF9-417C-854E-550B68A12BED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Ejercicio_Rossana_Corona.My.MyApplication</StartupObject>
+    <RootNamespace>Ejercicio_Rossana_Corona</RootNamespace>
+    <AssemblyName>Ejercicio Rossana Corona</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Ejercicio Rossana Corona.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Ejercicio Rossana Corona.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Eje14.Designer.vb">
+      <DependentUpon>Eje14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eje14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eje16.Designer.vb">
+      <DependentUpon>Eje16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eje16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eje18.Designer.vb">
+      <DependentUpon>Eje18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eje18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eje3.Designer.vb">
+      <DependentUpon>Eje3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eje3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eje5.Designer.vb">
+      <DependentUpon>Eje5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eje5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eje8.Designer.vb">
+      <DependentUpon>Eje8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eje8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer1.designer.vb">
+      <DependentUpon>Ejer1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer9.designer.vb">
+      <DependentUpon>Ejer9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer10.designer.vb">
+      <DependentUpon>Ejer10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer12.Designer.vb">
+      <DependentUpon>Ejer12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer13.Designer.vb">
+      <DependentUpon>Ejer13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer4.Designer.vb">
+      <DependentUpon>Ejer4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer7.designer.vb">
+      <DependentUpon>Ejer7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejer2.designer.vb">
+      <DependentUpon>Ejer2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejer2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Eje14.resx">
+      <DependentUpon>Eje14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eje16.resx">
+      <DependentUpon>Eje16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eje18.resx">
+      <DependentUpon>Eje18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eje3.resx">
+      <DependentUpon>Eje3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eje5.resx">
+      <DependentUpon>Eje5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eje8.resx">
+      <DependentUpon>Eje8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer1.resx">
+      <DependentUpon>Ejer1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer9.resx">
+      <DependentUpon>Ejer9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer10.resx">
+      <DependentUpon>Ejer10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer12.resx">
+      <DependentUpon>Ejer12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer13.resx">
+      <DependentUpon>Ejer13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer4.resx">
+      <DependentUpon>Ejer4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer7.resx">
+      <DependentUpon>Ejer7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejer2.resx">
+      <DependentUpon>Ejer2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-membership-vector-5b498fc76f2a07.4607730515315475914553.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a0d5a5910ef32ccace750ed560f14f07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%291.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3b808d7be95a5cda120017c0f1413b22--sun-dogs-sky-night.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

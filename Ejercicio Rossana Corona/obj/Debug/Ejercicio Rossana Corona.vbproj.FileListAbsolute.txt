@@ -1,0 +1,24 @@
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\bin\Debug\Ejercicio Rossana Corona.exe.config
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.MDIParent1.resources
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Resources.resources
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio Rossana Corona.vbproj.GenerateResource.Cache
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\bin\Debug\Ejercicio Rossana Corona.exe
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\bin\Debug\Ejercicio Rossana Corona.pdb
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\bin\Debug\Ejercicio Rossana Corona.xml
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio Rossana Corona.exe
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio Rossana Corona.xml
+c:\users\rosita\documents\visual studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio Rossana Corona.pdb
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer1.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer10.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer2.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer13.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Eje16.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Eje3.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Eje5.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Eje8.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer9.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer12.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer4.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Ejer7.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Eje14.resources
+C:\Users\Rosita\Documents\Visual Studio 2012\Projects\Ejercicio Rossana Corona\Ejercicio Rossana Corona\obj\Debug\Ejercicio_Rossana_Corona.Eje18.resources
